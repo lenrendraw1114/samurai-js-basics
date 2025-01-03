@@ -12,3 +12,5 @@
 
  // 配列の値を出力する
  console.log(userNames);
+
+ console.log(userNames[2]);

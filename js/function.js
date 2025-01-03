@@ -42,3 +42,9 @@ const double = (num) => {
 
 // 関数の戻り値を出力する
 console.log(double(30));
+
+// 定数を宣言する
+const userName = '侍太郎';
+
+// 定数の値を出力する
+console.log(userName);
